@@ -1,0 +1,33 @@
+tui|label
+T005|Virus
+T007|Bacterium
+T018|Embryonic Structure
+T019|Congenital Abnormality
+T023|Body Part, Organ, or Organ Component
+T031|Body Substance
+T031|Body Substance
+T032|Organism Attribute
+T034|Laboratory or Test Result
+T037|Injury or Poisoning
+T039|Physiologic Function
+T041|Mental Process
+T042|Organ or Tissue Function
+T044|Molecular Function
+T046|Pathologic Function
+T047|Disease or Syndrome
+T048|Mental or Behavioral Dysfunction
+T049|Cell or Molecular Dysfunction
+T054|Social Behavior
+T059|Laboratory Procedure
+T060|Diagnostic Procedure
+T061|Therapeutic or Preventive Procedure
+T067|Phenomenon or Process
+T074|Medical Device
+T079|Temporal Concept
+T100|Age Group
+T101|Patient or Disabled Group
+T184|Sign or Symptom
+T190|Anatomical Abnormality
+T195|Antibiotic
+T200|Clinical Drug
+T201|Clinical Attribute

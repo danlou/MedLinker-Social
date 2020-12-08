@@ -1,0 +1,288 @@
+abdomen	abdominal abdominal adominal abdomin abnominal abdomial abdomanal abdomal adbominal abdomenal
+aberfeld	aberfelds aberfeld_s
+abnormality 	abnormalities abnormal abnormally abonormal abormal abnomal abnormally abnoraml abnornal abnormailty adnormal
+absence 	absense absences abscence absent absentee
+accessory 	accesory
+achondroplasia 	achondroplastic
+acromicria	acromicric
+adenomatous 	adenomas adenomatoid
+amniocele	amnioceles
+anaspadia	anaspadias
+anencephaly	anencephalus anencephalia
+anomaly 	anomily anomoly abnormalities abnomalities anomolies abnormalties anomalies anomalous
+anophthalmia	anophthalmias anophthalmos
+anotia	anotias
+anus	anal
+aorta 	aeorta aortic arotic
+aortopulmonary	aorticopulmonary
+apple 	apple apples
+arch 	archs arches
+artery 	arterty arterys atery artey arterioles artieries ateries arterial arteriole atrial aterial
+asphyxiation	asphyxiating
+ateleiotic	ateliotic
+atresia	atresias
+atria	atrial arterial aterial
+atrium 	atriums
+auricular	articular
+band 	bands band
+barrett 	barret barretts barrett_s barrets barret_s barett baretts barett_s
+belly 	bellly bellys
+bifida	bifidas
+bifidum	bifidus bifidums
+bile	biliary bilary billiary
+bladder	baldder bladdar
+blockage	blockages blocked
+bochdalek	bochdaleks bochdalek_s
+bone 	bones boney bony
+bowel 	bowels bowell
+brain 	brains
+canal 	canals
+cartilage 	cartilages cartlaige cartlage cartlige cartliage cartiledge cartilege cartilidge cartilige cartillage
+cataract 	catarack cateract catarac catarct cateracts cataracts
+cephalocele	cephaloceles
+chd	chds
+chiari 	chirai chiairi chiair chairi chiaris chiari_s
+childhood 	chidhood childhoods chldhood chidlhood childhod choldhood chilhood
+chondrodystrophy	chondrodystrophies chondrodystrophic
+circumference 	circumfrence
+claw 	claws
+cleft 	clefted cleftee clefty clefts clef cleff
+club 	clubs clubbed
+coalition 	coalitions
+coarctation	coarctations
+common 	commmon commone coomon commonly commom commen commong comman
+complete 	completed completes
+complex 	compex complexity complexed
+congenital 	congential congenitally congentially
+connection 	conenction conection connector connections conncetion conections connecting connect connnection connexion
+constitutional 	consitution consitutional constitutionality constitution constitutionalism constituional consititution constution constiutional constitional constituion constitutionally constition constitutions
+constricting 	constricts constrict constrictive constriction
+corrected 	corrects correct
+craniocele	cranioceles
+craniosynostosis	craniosynostoses
+cranium	craniums cranial
+cushion 	cushiony cushions cusions cushioning cushioned cusion coushions coushin
+cyst 	cysts cysty cycst cystic
+decreased 	decreses decrease decreases decrese descreased
+defect 	deffect defects defective
+deficiency 	defincency defficency defeciency definciency deficinecy deficienct dificiency deficiencey defficiency deficiences deficincey difficiency defieciency deffiency deficience dificency deficieny deficincy deficiancy deficient deficiencys defiecency deficeincy deficientcy deficiencies deficancy defficiancy defiiciency deficency defiency deficencies deficiancies deficienies dificiencies defencies defiencies defeciencies defficiencies deficincies
+deformity	deformaty deformities deformaties deformed
+development	developmental develpment develoment developemental develpoment developmentally develpmental developmentaly deveopment developmentalist developement developed developing
+dextrotransposition	dextratransposition d_transposition
+diaphragm 	diapraghm diaphram diaphrams diaghram diaphragmatic diaphragms diagphram
+dicephalus	dicephaly
+digit 	digits
+discordance	discordant discord
+disease 	diseses didease dieseases dis_eased diasese dis_eases diesease diesase diseas diseases disase diseaes dissease dis_ease diseae dsease disesase disese desease diease dease dieases	
+dislocation 	dislocating dislocations dislocated dislocate dislocates dislocatable
+disorder 	disrder dissorder disorders dirorder diorder disoreder dosorder disoder
+displacement 	displacements displaced
+double 	doubles doubled duble
+down 	dowwn downt dowen downa dwn downing downs dowens down_s
+duct	ducts
+duodenum	duodenal
+duplication	duplicating duplications 
+dwarf 	dwarfs
+dwarfism 	dwarism
+dysplasia	displasia dyspasia dyslasia dyplasia displaysia dysplacia dysplastic dsyplasia dysplasias
+dysraphia	dysraphias dysraphism dysraphisms
+ear 	ears
+early 	erly ealy earily eary eearly
+ebstein	ebsteins ebstein_s
+ectopia 	ectopic etopic ectopics eptopic ecoptic
+edward 	edwards edward_s
+egg 	eggs
+elongated 	elongate elongates
+encephalocele	encephaloceles
+encephalocystomeningocele	encephalocystomeningoceles
+encephalomyelocele	encephalomyeloceles
+epispadia	epispadias
+esophagotracheal	oesophagotracheal esophago_tracheal oesophago_tracheal
+esophagus 	espophagus esophigus esphagus esophagul esphogus esophagitus esophagous esopahgus oesphagus esophogus escophgus oesophaghus osophagus oesophagus esophagas esophagits espohagus esophegus esohagus esophages esophageal oesophageal esphogeal oesophagal esophgeal esophegeal esphageal esophogeal esophagial esophagal esaphageal esophegal
+exstrophy	exstrophies extrophy extrophies estrophy
+extra	exta xtra
+extroversion 	extraversion extroverted extraverted
+eye 	eyes eyeball eyeballs eye_ball eye_balls
+fallot	fallots fallot_s
+femur 	femurs femure femoral femeral femor 
+fibula 	fibular fibular fibulas
+finger 	fingers
+fissure 	fissures
+fistula 	fistulas fistulae
+foot	feet feets feeet foots
+foramen	foraman
+forearm 	fore_arm forarm forarms forearms
+fusion 	fushion fusions fision fussion fusing
+genotype 	 geneotype geno_type genotpye genotypes
+glaucoma 	glacoma gloucoma
+globe	globes
+goodman	goodmans goodman_s
+great 	gret grreat geat agreat grerat grat greast grrreat
+growth 	grwoth
+hammer 	hammers
+hand 	hands
+hard 	hared ahard
+harelip	harelips hare_lip hare_lips
+heart 	hearts hearat
+hernia 	henia hernis heria herna hernias hernial herina hernea herniate hernai
+hip 	hip hips
+hirschsprung	hirschsprungs hirschsprung_s
+hole	holes
+hormone 	hormoned homone hormones horomone hormaone hormorne hormon horemone hormons harmone homones horomones hormome
+hydraencephalocele	hydraencephaloceles
+hydrocephalus 	hydrocephalis hydroceph
+hypoplasia	hypoplastic hyperplastic
+hypospadia	hypospadias
+ileum 	ilieum illeum illieum ileal
+imperfect  imperfection inperfect imperfectly imperfections imperfects
+imperforation	imperforate	
+indeterminate 	indeterminable indeterminant
+infant	infantile infantilism
+inlet 	inlets
+insufficiency 	insuffiency insufficency insufficieny insufficient
+interrupted 	interupted interupt interruped interuppted interrupt interrupts
+intestine 	instestine intesines instestines intenstines intenstine intestin intestins intesine intestines intestinal intestional
+inversion 	inversions
+jejunum 	jejenum jejunal
+jeune	jeunes	jeune_s
+joined 	joind joned jioned joiined
+juvenile	juvenial juvenille juvinile
+karyotype 	karotype karyotypes
+kidney 	kindneys kideny kindney kidnesy kidny kindey kidneys kindeys kdineys kidey kidenys
+klinefelter	klinefelters klinefelter_s
+large 	larges larger largest
+leg 	legs
+lethal 	leathal lethally
+levotransposition
+limb 	limbs
+lip 	lips
+lipomeningocele	lipomeningoceles
+lipomyelocele	lipomyeloceles
+lipomyelomeningocele	lipomyelomeningoceles
+lobster 	lobsters
+longitudinal 	longitudinally
+lower 	lowers lowered lowere lowerd
+lung 	lungs
+lymphedema 	lymphodema lymphoedema
+male 	males
+malformation 	malformations malformed
+marble 	marled marbled
+meningocele	meningoceles
+meningoencephalocele	meningoencephaloceles
+meningomyelocele	meningomyeloceles
+metatropic	metatrophic
+microcephaly	microcephalus microcephalies microcephalic microcephali microencephaly
+microphthalmia	microphthalmos
+middle	midle
+milroy	milroys milroy_s
+missing 	mising missin
+modeling 	modelling
+mongolism	mongoloidism
+morgagni	morgagnis morgagni_s
+mosaicism	mosaic
+muscle 	musscles mussle muschles muscke muscules muscel musles musces mucle miscle mucles muscler muscles msucle mucsle muslce musle muscls musscle muscule
+myelocele	myeloceles
+myelocystocele	myelocystoceles
+myelomeningocele	myelomeningoceles
+nanophthalmia	nanophthalmos
+nanosomia	nanosoma
+narrowing	narrow narrowings
+nasal	nasally nasaly
+neural 	neuronal
+newborn	newborns
+normal 	hormal mormal noral normle noraml normall normally noemal normaly nromal nornmal normmal nornal ormal nomal nomral
+notoencephalocele	notoencephaloceles
+ntd	ntds
+nubbin 	nubbins
+obstruction 	obstruct obstructions obstructing obstructed
+omphalocele	omphaloceles
+one 	oone once
+onset 	onsets
+open 	opend opens opened openeing openign opening oppening openin reopening openning opeing 	
+osteochondrodysplasia	osteochondrodysplasias
+osteodystrophy	osteodystrophies	
+outflow 	outflows
+outlet 	outlets outlet
+ovale	ovales
+ovary 	ovarians ovarian ovarion overian ovairian ovaian ovarain ovaries
+palate 	palates pallate palat pallat pallatt pallatte palete paletes pallete palet pallet pallett pallette palates palates pallates palats pallats pallatts pallattes paletes palletes palets pallets palletts pallettes
+paraesophageal	paraoesophageal
+partial 	partical partialy partially
+patau	pataus patau_s
+pediatric 	paediatric pediatrics paediatrics
+peel 	peels peely
+persistent 	persistant peristent persisted persist persisent
+pinna 	pinnae
+polycystic 	polcystic
+polydactyly 	polydactylism
+posterior 	posteriorly
+potter	potters potter_s
+primitive 	primitives primative
+proximal 	proximally
+prune 	pruned prunes
+pulmonary 	pulomary pulmanary pulmoary pulomonary plumonary pulmonry pulminary pulmonay pulmomary pulmonery pumonary pulmunary pulmnary pulomnary pulmonic
+radius	radial radially radial
+ray 	rays
+rectum	rectal
+reduction 	reductions reducing reduced
+return 	returns returned
+rhizomelia	rhizomelic
+right 	rightt rght righ rigjht ritght riught riht reight rigtht righht rigt rite
+ring 	rings
+roger	rogers roger_s
+schoenberg	schonberg schoenbergs schoenberg_s schonbergs schonberg_s
+schwartz	schwartzs schwartz_s
+scimitar 	scimitars
+septum	septal
+sequence	sequences
+severe 	suvere servre sevear savere svere severve servere sevre sever
+sex 	sexs
+shaped	shape
+single 	singe
+sinus 	sinuses sinues sinius sinuse sinsus
+skull 	skulls
+sling 	slings
+small 	smaller smalll smal
+solitary 	solidary 	
+spina	spin spinal
+spine	spines spinal spinial
+split 	splits
+stenosis 	stenois stinosis stenoses stenoisis
+streeter	streeters	streeter_s
+stricture 	strictures strictured
+suture 	sutures sutured
+sweeney	sweeneys sweeney_s
+syndrome 	syndorme syndome symdrome yndrome syndroms sydrome syndrone syndrom
+tag 	tags
+terminal	terminals
+tetralogy 	tetrology
+thorax 	thoraxic thorasic thoraxic thoracic thoractic thoratic thoracis throacic thoraic
+thumb 	thumbs
+tibia 	tibial tibias tibial tibialis
+toe 	toes
+tower 	towers
+tracheoesophageal	tracheooesophageal tracheo_esophageal tracheo_oesophageal
+transverse 	tranverse
+triad 	triads triad_s
+trigonocephaly	trigonocephalus
+trisomy 	trisome trisomy trisomies trisomic tristomy trisomie
+tube 	tubed tubes
+turner	turners turner_s
+twin	twins
+type 	types
+ulna 	ulnar ulnas
+umbilical 	umbillical imbilical periumbilical umbelical umblical
+underdeveloped	undeveloped underdevelopment
+urethra 	urethras urethera uretha  urethral
+valve 	valves valvar valvular
+variant 	varient variants
+venous 	veneous veinous
+ventricle 	ventricles vetricle ventricals venticle venticles ventrical ventricular
+ventriculocele	ventriculoceles
+vessel 	vessles vessels vesel
+wall 	walls walll
+web	webbed
+wedge 	wedges wedged
+with	w w/
+without 	withoug withiout wothout withou withot witout wihtout whitout wihout withowt whithout withour wiithout withouth withought wthout w/o w/out 
+mucous	submucous mucus submucus

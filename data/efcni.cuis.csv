@@ -1,0 +1,238 @@
+PRETERM|C0022876|preterm labor
+PRETERM|C0151526|birth preterm
+PRETERM|C0473390|threatened preterm labor
+PRETERM|C0728731|preterm infant
+PRETERM|C0747918|pregnancy preterm
+PRETERM|C2735340|preterm labor symptoms
+PRETERM|C2983188|preterm neonatal stage
+PRETERM|C3494262|extremely preterm infant
+PRETERM|C3827961|spontaneous preterm birth
+PRETERM|C3829315|late birth preterm
+PRETERM|C3897192|very preterm infant
+PRETERM|C3898619|late preterm infant
+PRETERM|C4048294|preterms
+PRETERM|C4053870|very preterm birth
+PRETERM|C4054482|moderate late preterm birth
+PRETERM|C4055046|extreme preterm birth
+PRETERM|C4288728|moderate late preterm infant
+PRETERM|C4763953|preterm birth complication
+APNOEA|C0003578|apnoea
+APNOEA|C0232058|apnoea newborn
+APNOEA|C0242184|decreased oxygen saturation
+APNOEA|C0369768|oxygen saturation
+APNOEA|C0410919|bradycardia fetal
+APNOEA|C0428174|o2 oxygen saturation
+APNOEA|C0428977|bradycardia
+APNOEA|C0475715|apnoea prematurity
+APNOEA|C0483415|oxygen saturation
+APNOEA|C0523807|oxygen saturation
+APNOEA|C0745261|apnoea infancy
+APNOEA|C0746961|low oxygen saturation
+APNOEA|C0852710|high oxygen saturation
+APNOEA|C1112488|neonatal bradycardia
+APNOEA|C2231193|mixed neonatal apnoea
+APNOEA|C2316590|primary apnoea newborn
+APNOEA|C2985311|persistent fetal bradycardia
+APNOEA|C3812171|bradycardia
+APNOEA|C4302217|central neonatal apnoea
+APNOEA|C4743799|neonatal sinus bradycardia
+APNOEA|C4761086|neonatal sinus bradycardia
+ASPHYXIA|C0000832|placental abruption
+ASPHYXIA|C0004044|asphyxia
+ASPHYXIA|C0004045|asphyxia birth
+ASPHYXIA|C0007786|ischaemic encephalopathy
+ASPHYXIA|C0010054|cardiac ischaemia
+ASPHYXIA|C0022116|ischaemia
+ASPHYXIA|C0149878|asphyxiated newborn
+ASPHYXIA|C0149878|encephalopathy hypoxic ischemic newborn
+ASPHYXIA|C0151744|cardiac ischaemia
+ASPHYXIA|C0235535|asphyxia livida newborn
+ASPHYXIA|C0235536|asphyxia pallida newborn
+ASPHYXIA|C0242184|hypoxia
+ASPHYXIA|C0349466|myocardial ischaemia newborn
+ASPHYXIA|C0349489|fetal hypoxia
+ASPHYXIA|C0455583|h o birth asphyxia
+ASPHYXIA|C0456033|perinatal hypoxia asphyxia
+ASPHYXIA|C0456086|birth hypoxia
+ASPHYXIA|C0456087|fetal asphyxia
+ASPHYXIA|C0473817|liveborn with labor hypoxia
+ASPHYXIA|C0475601|neonatal cerebral ischaemia
+ASPHYXIA|C0475802|perinatal hypoxic ischaemic encephalopath 
+ASPHYXIA|C0559477|birth asphyxia
+ASPHYXIA|C0752304|hypoxic ischaemic encephalopathy
+ASPHYXIA|C0752308|hypoxia ischemia
+ASPHYXIA|C0866889|other specified birth asphyxia
+ASPHYXIA|C0917798|cerebral ischaemia
+ASPHYXIA|C0920493|embryo hypoxia
+ASPHYXIA|C0935448|embryo fetus hypoxia
+ASPHYXIA|C1140716|hypoxic encephalopathy
+ASPHYXIA|C1644178|perinatal asphyxiation
+ASPHYXIA|C1963140|hypoxia
+ASPHYXIA|C2711997|fetal death due asphyxia
+ASPHYXIA|C2712358|mild hypoxic ischaemic encephalopathy 
+ASPHYXIA|C2712360|severe hypoxic ischaemic encephalopathy
+ASPHYXIA|C2721575|nephropathy due ischaemia
+ASPHYXIA|C3824677|asphyxia children
+ASPHYXIA|C3898147|neonatal hypoxic ischemic encephalopathy
+ASPHYXIA|C4543601|mild hypoxic ischaemic encephalopathy newborn
+ASPHYXIA|C4543602|moderate hypoxic ischaemic encephalopathy newbor
+ASPHYXIA|C4544086|severe hypoxic ischaemic encephalopathy newbor
+ASPHYXIA|C4724158|hypoxic ischemic encephalopathy 
+ASPHYXIA|C5225907|neonatal acidemia hypoxia
+BRONCHOPULMONARY DYSPLASIA (BPD)|C0006287|bronchopulmonary dysplasia
+BRONCHOPULMONARY DYSPLASIA (BPD)|C0546481|bronchopulmonary dysplasia due oxygen toxicity
+BRONCHOPULMONARY DYSPLASIA (BPD)|C2749362|bronchopulmonary dysplasia may develop later
+BRONCHOPULMONARY DYSPLASIA (BPD)|C3274515|severe bronchopulmonary dysplasia
+BRONCHOPULMONARY DYSPLASIA (BPD)|C3898279|moderate bronchopulmonary dysplasia
+BRONCHOPULMONARY DYSPLASIA (BPD)|C3898352|mild bronchopulmonary dysplasia
+BRONCHOPULMONARY DYSPLASIA (BPD)|C4025025|bronchodysplasia
+BRONCHOPULMONARY DYSPLASIA (BPD)|C4722188|bronchopulmonary dysplasia
+BRONCHOPULMONARY DYSPLASIA (BPD)|C0006287|chronic lung disease babies 
+BRONCHOPULMONARY DYSPLASIA (BPD)|C0034051|lung alveoli 
+BRONCHOPULMONARY DYSPLASIA (BPD)|C0039231|tachycardia 
+BRONCHOPULMONARY DYSPLASIA (BPD)|C0158940|transient tachypnoea newborn
+BRONCHOPULMONARY DYSPLASIA (BPD)|C0231835|tachypnoea
+BRONCHOPULMONARY DYSPLASIA (BPD)|C0410918|fetal tachycardia
+BRONCHOPULMONARY DYSPLASIA (BPD)|C0746102|chronic lung disease
+BRONCHOPULMONARY DYSPLASIA (BPD)|C0877308|neonatal tachycardia
+BRONCHOPULMONARY DYSPLASIA (BPD)|C1112613|neonatal tachypnea
+BRONCHOPULMONARY DYSPLASIA (BPD)|C1515933|alveoli 
+BRONCHOPULMONARY DYSPLASIA (BPD)|C3827868|tachycardia 
+HYPOGLYCAEMIA|C0010520|cyanosis
+HYPOGLYCAEMIA|C0020615|hypoglycaemia
+HYPOGLYCAEMIA|C0020672|hypothermia
+HYPOGLYCAEMIA|C0026827|hypotonia
+HYPOGLYCAEMIA|C0158986|hypoglycaemia neonatal
+HYPOGLYCAEMIA|C0241938|hypotonic
+HYPOGLYCAEMIA|C0270256|hypothermia neonate
+HYPOGLYCAEMIA|C0270971|neonatal hypotonia
+HYPOGLYCAEMIA|C0271712|hypoglycaemia childhood
+HYPOGLYCAEMIA|C0311196|hypoglycaemia diet
+HYPOGLYCAEMIA|C0343239|neonatal hypotonia
+HYPOGLYCAEMIA|C0413252|hypothermia
+HYPOGLYCAEMIA|C0456013|neonatal acrocyanosis
+HYPOGLYCAEMIA|C0919592|hypothermia neonatal
+HYPOGLYCAEMIA|C1456352|hypoglycaemia infancy
+HYPOGLYCAEMIA|C1858120|hypotonia
+HYPOGLYCAEMIA|C1866218|hypotonia newborn
+HYPOGLYCAEMIA|C1963170|hypothermia
+HYPOGLYCAEMIA|C2267233|hypotonia neonatal
+HYPOGLYCAEMIA|C3151421|cyanosis transient neonatal
+HYPOGLYCAEMIA|C3278709|hypotonia at birth
+HYPOGLYCAEMIA|C4310970|cyanosis transient neonatel
+HYPOGLYCAEMIA|C4553646|cyanosis
+HYPOGLYCAEMIA|C4553659|hypoglycemia
+INFECTIONS AND NEONATAL SEPSIS|C0025289|meningitis                                                                                                           
+INFECTIONS AND NEONATAL SEPSIS|C0025297|meningitis viral                                                                                      
+INFECTIONS AND NEONATAL SEPSIS|C0032285|pneumonia                                                                                                            
+INFECTIONS AND NEONATAL SEPSIS|C0032310|pneumonia viral
+INFECTIONS AND NEONATAL SEPSIS|C0036690|septicaemia                                                                                                          
+INFECTIONS AND NEONATAL SEPSIS|C0153092|meningitis mumps                                                                                      
+INFECTIONS AND NEONATAL SEPSIS|C0158935|congenital pneumonia
+INFECTIONS AND NEONATAL SEPSIS|C0158948|neonatal infective mastitis
+INFECTIONS AND NEONATAL SEPSIS|C0235815|neonatal urinary tract infection
+INFECTIONS AND NEONATAL SEPSIS|C0243026|septicemia                                                                                            
+INFECTIONS AND NEONATAL SEPSIS|C0269810|septicaemia during labour                                                                             
+INFECTIONS AND NEONATAL SEPSIS|C0270151|fetal pneumonia                                                                                       
+INFECTIONS AND NEONATAL SEPSIS|C0276620|infectious neonatal hepatitis
+INFECTIONS AND NEONATAL SEPSIS|C0276682|neonatal candida infection
+INFECTIONS AND NEONATAL SEPSIS|C0339960|neonatal chlamydial lung infection
+INFECTIONS AND NEONATAL SEPSIS|C0339968|neonatal pneumonia
+INFECTIONS AND NEONATAL SEPSIS|C0343703|neonatal gonococcal infection
+INFECTIONS AND NEONATAL SEPSIS|C0343722|neonatal chlamydial infection
+INFECTIONS AND NEONATAL SEPSIS|C0456103|neonatal sepsis
+INFECTIONS AND NEONATAL SEPSIS|C0456107|meningitis neonatal
+INFECTIONS AND NEONATAL SEPSIS|C0456108|neonatal infection eye
+INFECTIONS AND NEONATAL SEPSIS|C0556023|neonatal skin infection
+INFECTIONS AND NEONATAL SEPSIS|C0747676|childhood pneumonia
+INFECTIONS AND NEONATAL SEPSIS|C0747821|meningitis pregnancy
+INFECTIONS AND NEONATAL SEPSIS|C0854706|neonatal infection
+INFECTIONS AND NEONATAL SEPSIS|C1096452|early onset neonatal sepsis
+INFECTIONS AND NEONATAL SEPSIS|C1096721|late onset neonatal sepsis
+INFECTIONS AND NEONATAL SEPSIS|C1263835|fetal infection
+INFECTIONS AND NEONATAL SEPSIS|C1263836|neonatal infectious disorder
+INFECTIONS AND NEONATAL SEPSIS|C1274237|neonatal viral infection skin
+INFECTIONS AND NEONATAL SEPSIS|C1274238|neonatal pyogenic infection skin
+INFECTIONS AND NEONATAL SEPSIS|C1274239|neonatal fungal infection skin
+INFECTIONS AND NEONATAL SEPSIS|C1275132|neonatal staphylococcal infection skin 
+INFECTIONS AND NEONATAL SEPSIS|C1275134|neonatal streptococcal infection
+INFECTIONS AND NEONATAL SEPSIS|C1275136|neonatal pseudomonas infection
+INFECTIONS AND NEONATAL SEPSIS|C2931185|neonatal hsv infection
+INFECTIONS AND NEONATAL SEPSIS|C3665339|neonatal sepsis
+INFECTIONS AND NEONATAL SEPSIS|C3825690|septicemia children
+INFECTIONS AND NEONATAL SEPSIS|C3825816|pneumonia children
+INFECTIONS AND NEONATAL SEPSIS|C3825986|meningitis children
+INFECTIONS AND NEONATAL SEPSIS|C3897007|neonatal herpes simplex infection
+INFECTIONS AND NEONATAL SEPSIS|C4303438|neonatal infection caused by aspergillus
+INFECTIONS AND NEONATAL SEPSIS|C4543950|infection causing neonatal tracheitis
+INFECTIONS AND NEONATAL SEPSIS|C4552844|meningitis                                                                                                           
+INTRAVENTRICULAR HAEMORRHAGE (IVH)|C0240059|intraventricular haemorrhage
+INTRAVENTRICULAR HAEMORRHAGE (IVH)|C0270191|neonatal intraventricular haemorrhage
+INTRAVENTRICULAR HAEMORRHAGE (IVH)|C0475526|intracerebral haemorrhage intraventricular
+INTRAVENTRICULAR HAEMORRHAGE (IVH)|C0475586|intraventricular haemorrhage due birth injury
+INTRAVENTRICULAR HAEMORRHAGE (IVH)|C0475735|intraventricular haemorrhage prematurity
+INTRAVENTRICULAR HAEMORRHAGE (IVH)|C1997003|intraventricular haemorrhage fetus
+INTRAVENTRICULAR HAEMORRHAGE (IVH)|C3898694|intraventricular hemorrhage related birth 
+INTRAVENTRICULAR HAEMORRHAGE (IVH)|C4280789|preterm intraventricular hemorrhage
+INTRAVENTRICULAR HAEMORRHAGE (IVH)|C4505184|cerebral intraventricular haemorrhage
+INTRAVENTRICULAR HAEMORRHAGE (IVH)|C4722263|intraventricular hemorrhage neonatal
+JAUNDICE|C0022346|jaundice
+JAUNDICE|C0022353|baby jaundice 
+JAUNDICE|C0270206|fetal neonatal jaundice nos
+JAUNDICE|C1510662|neonatal transient jaundice
+JAUNDICE|C1859236|neonatal jaundice 
+JAUNDICE|C1968764|jaundice neonatal some patients
+JAUNDICE|C2010848|jaundice
+NECROTIZING ENTEROCOLITIS (NEC)|C0520459|necrotizing enterocolitis
+NECROTIZING ENTEROCOLITIS (NEC)|C1442826|neonatal necrotizing enterocolitis
+NECROTIZING ENTEROCOLITIS (NEC)|C2349669|necrotizing enterocolitis newborn 
+NECROTIZING ENTEROCOLITIS (NEC)|C4082937|necrotizing enterocolitis
+NECROTIZING ENTEROCOLITIS (NEC)|C4724085|necrotizing enterocolitis
+PATENT DUCTUS ARTERIOS|C0013274|patent ductus arteriosus
+PATENT DUCTUS ARTERIOS|C0685725|congenital dilated ductus arteriosus
+PATENT DUCTUS ARTERIOS|C0860589|fetal ductus arteriosus systole
+PATENT DUCTUS ARTERIOS|C3495549|patent ductus arteriosus 
+PATENT DUCTUS ARTERIOS|C3532263|narrowing fetal ductus arteriosus
+PATENT DUCTUS ARTERIOS|C4476845|congenital ductus arteriosus aneurysm
+PNEUMOTHORAX|C0032326|pneumothorax 
+PNEUMOTHORAX|C1857021|neonatal pneumothorax 
+PNEUMOTHORAX|C1963215|pneumothorax 
+PNEUMOTHORAX|C4722287|neonatal pneumothorax 
+PNEUMOTHORAX|C4761015|neonatal pneumothorax
+PULMONARY HYPERTHENSION|C0020542|pulmonary hypertension 
+PULMONARY HYPERTHENSION|C0031190|persistent pulmonary hypertension newborn
+PULMONARY HYPERTHENSION|C0152171|primary pulmonary hypertension 
+PULMONARY HYPERTHENSION|C1135362|primary pulmonary hypertension newborn
+PULMONARY HYPERTHENSION|C1963220|pulmonary hypertension 
+PULMONARY HYPERTHENSION|C2973725|pulmonary artery hypertension
+PULMONARY HYPERTHENSION|C3203102|primary pulmonary hypertension 
+PULMONARY HYPERTHENSION|C4012212|neonatal pulmonary hypertension 
+RESPIRATORY DISTRESS SYNDROME (RDS)|C0020192|newborn respiratory distress
+RESPIRATORY DISTRESS SYNDROME (RDS)|C0035220|respiratory distress syndrome
+RESPIRATORY DISTRESS SYNDROME (RDS)|C0035222|respiratory distress syndrome
+RESPIRATORY DISTRESS SYNDROME (RDS)|C0543837|respiratory distress syndrome children
+RESPIRATORY DISTRESS SYNDROME (RDS)|C0852283|respiratory distress syndrome
+RESPIRATORY DISTRESS SYNDROME (RDS)|C1834442|respiratory distress congenital form
+RESPIRATORY DISTRESS SYNDROME (RDS)|C1850092|respiratory distress neonatal period
+RESPIRATORY DISTRESS SYNDROME (RDS)|C1857088|respiratory distress neonate
+RESPIRATORY DISTRESS SYNDROME (RDS)|C1968593|respiratory distress syndrome premature infants 
+RESPIRATORY DISTRESS SYNDROME (RDS)|C4012398|respiratory distress infancy
+RESPIRATORY DISTRESS SYNDROME (RDS)|C4281993|newborn respiratory distress
+RESPIRATORY DISTRESS SYNDROME (RDS)|C4313504|respiratory distress at birth infancy
+RESPIRATORY DISTRESS SYNDROME (RDS)|C4724256|neonatal respiratory distress syndrome
+RESPIRATORY SYNCYTIAL VIRUS (RSV)|C0035236|respiratory syncytial virus
+RESPIRATORY SYNCYTIAL VIRUS (RSV)|C0206545|respiratory syncytial virus
+RESPIRATORY SYNCYTIAL VIRUS (RSV)|C0375023|respiratory syncytial virus rsv
+RETINOPATHY OF PREMATURITY (ROP)|C0035344|prematurity retinopathy
+RETINOPATHY OF PREMATURITY (ROP)|C1827893|stage retinopathy prematurity
+RETINOPATHY OF PREMATURITY (ROP)|C2187297|retinopathy prematurity left eye
+RETINOPATHY OF PREMATURITY (ROP)|C2187302|retinopathy prematurity right eye
+RETINOPATHY OF PREMATURITY (ROP)|C3510447|bilateral retinopathy prematurity
+RETINOPATHY OF PREMATURITY (ROP)|C3640081|immature retinopathy prematurity
+RETINOPATHY OF PREMATURITY (ROP)|C3697869|screening retinopathy prematurity
+RETINOPATHY OF PREMATURITY (ROP)|C3897697|retinopathy prematurity finding                                                                       
+RETINOPATHY OF PREMATURITY (ROP)|C4703701|retinopathy prematurity plus
+RETINOPATHY OF PREMATURITY (ROP)|C4703702|retinopathy prematurity pre plus 
+RETINOPATHY OF PREMATURITY (ROP)|C4703703|retinopathy prematurity threshold
+RETINOPATHY OF PREMATURITY (ROP)|C4703704|retinopathy prematurity prethreshold
+RETINOPATHY OF PREMATURITY (ROP)|C4722185|retinopathy prematurity
